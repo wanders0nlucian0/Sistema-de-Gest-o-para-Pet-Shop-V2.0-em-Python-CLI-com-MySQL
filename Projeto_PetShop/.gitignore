@@ -1,0 +1,19 @@
+# Arquivo de ambiente (credenciais, senhas, etc)
+.env
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configs de IDE/editor
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
